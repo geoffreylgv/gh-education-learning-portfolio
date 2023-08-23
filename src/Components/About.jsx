@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Geoffrey (dʒɛfray or dʒɛfri) is SysAdmin and is learning API development, web development, cloud, Azure to expand and improve his skills. He has a strong passion for technology and DevOps and is eager to expand his skills and knowledge in this area.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,9 +34,10 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
+  "Advocacy",
+  "Community Building",
 ];
 
 /**
